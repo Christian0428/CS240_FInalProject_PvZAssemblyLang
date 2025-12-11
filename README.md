@@ -1,7 +1,7 @@
 # CS240_FInalProject_PvZAssemblyLang
 
 In my assembly language, I have around 20 instructions that have their own unique actions.
-(REMINDER: THIS IS NOT COMPLETE AND I AM STILL MAKING MODIFICATIONS DESPITE THIS BEING AN ASSIGNMENT AND TURNED IN)
+(REMINDER: THIS IS NOT COMPLETE AND I AM STILL MAKING MODIFICATIONS DESPITE THIS BEING AN ASSIGNMENT AND TURNED IN) - I mention this because my instructions are longer than 3 letters and plan on making fitting this requirement before presentations.
 
 Since module 1, I have decided to add an "addi" instruction primarily for the use of setting values intially without actually using one of the dedicated functions outside of its use. I might be adding other basic primary and reused MARSMIPPS instruction (have not decided yet)
 All of these instructions otehr than the basic known instructions were all implemented by me and like stated before have their very unique functions. For example, in the game Plants vs. Zombies, you first start with a set amount of sun. In my language you manually have to add sun to your inventory but am currently working on a set function to automatically do so.
